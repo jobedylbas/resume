@@ -1,2 +1,2 @@
-# Resume
-Currículo web baseado no template de Novo Résumé
+# Résumé
+Currículo web baseado no template de [Novo Résumé](https://novoresume.com/)
