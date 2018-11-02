@@ -3,3 +3,11 @@
 
 # Résumé
 Currículo web baseado no template de [Novo Résumé](https://novoresume.com/)
+
+## Para impressão:
+
+### Google Chrome:
+
+- Ctrl+P 
+- Entre em "Mais definições" e ative as opções de "Gráficos de segundo plano"
+- Imprima ;)
