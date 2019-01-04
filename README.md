@@ -8,6 +8,5 @@ Currículo web baseado no template de [Novo Résumé](https://novoresume.com/)
 
 ### Google Chrome:
 
-- Ctrl+P 
-- Entre em "Mais definições" e ative as opções de "Gráficos de segundo plano"
+- Ctrl+P
 - Imprima ;)

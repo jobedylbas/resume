@@ -1,8 +1,8 @@
 html, body{
 	margin: 0 auto;
 	font-family: 'Ubuntu';
-	height:297mm;
-    width:210mm;
+	height: 297mm;
+    width: 210mm;
 }
 
 header{
@@ -218,6 +218,10 @@ ul > li {
 }
 
 @media print{
+	body{
+		 -webkit-print-color-adjust: exact;
+	}
+
 	@page{
 		margin:0;
 	}
